@@ -1,0 +1,6 @@
+matricule,modele,typeVoiture,nbrePlace,prix,quantite
+,,,0,0.0,0
+mat1,clio,sport,2,1230.0,10
+mat2,audi,familiale,4,25697.0,12
+mat3,dimax,familial,4,25697.0,0
+test,test2,test2,14,14.0,25
